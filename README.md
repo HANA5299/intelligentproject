@@ -1,1 +1,1 @@
-# intelligentproject
+# Heart_Disease_Detection_Project
